@@ -1,0 +1,1 @@
+Questão 17: a), b) e c) estão corretas — apenas d) está incorreta (falta os parênteses). Isso mostra que o compilador C é flexível quanto a espaços em branco entre os tokens, mas não abre mão da sintaxe obrigatória (como os parênteses da chamada de função).
